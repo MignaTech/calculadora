@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CALCU</string>
+    <string name="fn1">SIN</string>
+    <string name="fn2">COS</string>
+    <string name="fn3">TAN</string>
+
+    <string name="gr1">45</string>
+    <string name="gr2">90</string>
+    <string name="gr3">180</string>
+
+    <string name="titulo1">Funciones</string>
+    <string name="titulo2">Grados</string>
+    <string name="titulo3">RESULTADO</string>
+    <string name="_00">00</string>
+    <string name="angulos">Imagen De Angulos</string>
+
+    <string name="btn1">RESULTADOS</string>
+</resources>
